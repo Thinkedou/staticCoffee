@@ -85,7 +85,7 @@ export const coffee = [
         titre : 'Mohammed Ali Espresso Bio',
         marque: 'The Barn',
         conditionnement : '250g',
-        origin:['Guatemala','Rwanda'],
+        origin:['Ethiopie','Berlin'],
         prix:13.5,
         description:"Découvrez l'Éthiopie avec ce café originaire de la ville de Jimma.",
         images:[
