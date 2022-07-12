@@ -29,29 +29,29 @@ export const coffee = [
     },
     {
         id:'5f18628b97d9047915105f2c',
-        titre : 'Blend Italien',
-        marque: 'Lugat',
+        titre : 'Café en grains bio',
+        marque: 'Green Lion Coffee',
         conditionnement : '250g',
         origin:'Italie',
-        prix:4.4,
-        description:"Ce café en grains Le Blend Italien est un blend d'Arabica et de Robusta spécialement assemblé et torréfié par l'équipe de torréfaction des Cafés Lugat pour réaliser un espresso de qualité aux notes épicées. Ce Blend est composé d'Arabica du Brésil et du Nicaragua et de Robusta de Rwanda. Torréfaction medium spécialement étudiée pour réaliser de bons espressi",
+        prix:7.6,
+        description:"Ce café en grains Moonlight a tout d'un grand café.",
         torrefaction:'medium',
         images:[
-            'https://www.maxicoffee.com/images/products/large/leblenditalien_grains_medium-1.jpg'
+            'https://www.maxicoffee.com/images/products/large/moonlight.jpg'
         ]
     },
     {
         id:'5f1862e197d9047915105f31',
-        titre : 'Cerrado Mineiro',
-        marque: 'Lugat',
-        conditionnement : '250g',
-        origin:'Brésil',
+        titre : 'Number N°2',
+        marque: 'Red coffee',
+        conditionnement : '1kg',
+        origin:'Pérou',
         score:85,
-        prix:6.2,
-        description:"Ce café en grains Cerrado Mineiro provient de région du même nom, prestigieuse région au Sud-Est du Brésil connue pour produire des cafés de haute qualité à l'identité unique. Ce café de spécialité vous offrira une tasse gourmande aux notes de chocolat et de fruits à coque. Torréfaction medium spécialement étudiée pour réaliser de bons espress",
+        prix:18.9,
+        description:"Le Number 2 (anciennement Red Coffee) est un café en grains 100% Arabica bio équilibré aux dominantes gourmandes (caramel, chocolat) spécialement étudié pour votre machine expresso",
         torrefaction:'medium',
         images:[
-            'https://www.maxicoffee.com/images/products/large/cerrado_mineiro_grains_medium-1.jpg'
+            'https://www.maxicoffee.com/images/products/large/number_2_250g_2020.jpg'
         ]
     },
     {
@@ -65,7 +65,7 @@ export const coffee = [
         description:"Découvrez ce café de Marco, Champion de France Barista 2017 ! Marco, torréfacteur chez Cafés Lugat, a gagné le Championnat avec ce café Don Chalo qui provient de la région de Jurutungo au Panama. Ce café vous offrira une tasse fruitée aux arômes de fruit de la passion, mangue, thé vert. Conditionnement : 250 grammes.",
         torrefaction:'medium',
         images:[
-            'https://www.maxicoffee.com/images/products/large/lugat_grains_medium_don_chalo_caturra.jpg'
+            'https://www.maxicoffee.com/images/products/large/panama_don_chalo_natur.jpg'
         ]
     },
     {
